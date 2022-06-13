@@ -1,0 +1,20 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "Test 1",
+            "author": "Muchlas Syahlanisyiam",
+            "date_issuance": "2021",
+            "publisher": "PT Yeay Indonesia",
+            "book_no": "AS981242533"
+        },
+        {
+            "id": 2,
+            "name": "Test 2",
+            "author": "Muchlas Syahlanisyiam",
+            "date_issuance": "2022",
+            "publisher": "PT Yeay Indonesia",
+            "book_no": "AS98128903"
+        }
+    ]
+}
