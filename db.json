@@ -16,5 +16,33 @@
             "publisher": "PT Yeay Indonesia",
             "book_no": "AS98128903"
         }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Muchlas Syahlanisyiam",
+            "email": "test@muchlas.com",
+            "password": "123"
+        }
+    ],
+    "rent_details": [
+        {
+            "id": 1,
+            "users_id": 1,
+            "books_id": 1,
+            "is_return": false
+        }
+    ],
+    "book_stocks": [
+        {
+            "id": 1,
+            "books_id": 1,
+            "stocks": 30
+        },
+        {
+            "id": 2,
+            "books_id": 2,
+            "stocks": 80
+        }
     ]
 }
