@@ -2,11 +2,12 @@
     "books": [
         {
             "id": 1,
-            "name": "Test 1",
+            "name": "Megamendung Kembar",
             "author": "Muchlas Syahlanisyiam",
             "date_issuance": "2021",
             "publisher": "PT Yeay Indonesia",
-            "book_no": "AS981242533"
+            "book_no": "AS981242533",
+            "img": "https://s2.bukalapak.com/img/22885051031/large/data.png.webp"
         },
         {
             "id": 2,
@@ -14,7 +15,8 @@
             "author": "Muchlas Syahlanisyiam",
             "date_issuance": "2022",
             "publisher": "PT Yeay Indonesia",
-            "book_no": "AS98128903"
+            "book_no": "AS98128903",
+            "img": "https://s1.bukalapak.com/img/62251553692/large/data.jpeg.webp"
         }
     ],
     "users": [
@@ -43,6 +45,13 @@
             "id": 2,
             "books_id": 2,
             "stocks": 80
+        }
+    ],
+    "favorites": [
+        {
+            "id": 1,
+            "books_id": 1,
+            "users_id": 1
         }
     ]
 }
